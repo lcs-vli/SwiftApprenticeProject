@@ -26,6 +26,7 @@
 		5494EC9223D6052B00F6FB7F /* SwiftApprenticeProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftApprenticeProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		5494EC9523D6052B00F6FB7F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		5494EC9C23D6054900F6FB7F /* 01-expressions-variables-and-constants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-expressions-variables-and-constants.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		54C8485223D7D35800B554B4 /* 01-expressions-variables-and-constants-challenges.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-expressions-variables-and-constants-challenges.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		5494EC8923D6052A00F6FB7F = {
 			isa = PBXGroup;
 			children = (
+				54C8485223D7D35800B554B4 /* 01-expressions-variables-and-constants-challenges.playground */,
 				5494EC9C23D6054900F6FB7F /* 01-expressions-variables-and-constants.playground */,
 				5494EC9423D6052B00F6FB7F /* SwiftApprenticeProject */,
 				5494EC9323D6052B00F6FB7F /* Products */,
